@@ -4,11 +4,11 @@ This adapter lets you connect your EmberJS app to [PhraseApp](https://phraseapp.
 
 ## Usage
 
-Check out our blog post: [How To Translate EmberJS apps](https://localize-software.phraseapp.com/posts/emberjs-how-to-translate-emberjs-apps/) - it shows you how to get started with EmberJS localization and how to integrate this adapter.
+Check out our blog post: [How To Translate EmberJS apps](https://phraseapp.com/blog/posts/javascript-how-to-translate-emberjs-apps/) - it shows you how to get started with EmberJS localization and how to integrate this adapter.
 
 
 ## Further Reading
 
 * [EmberJS](http://emberjs.com/)
 * [PhraseApp](https://phraseapp.com)
-* [How To Translate EmberJS apps](https://localize-software.phraseapp.com/posts/emberjs-how-to-translate-emberjs-apps/)
+* [How To Translate EmberJS apps](https://phraseapp.com/blog/posts/javascript-how-to-translate-emberjs-apps/)
