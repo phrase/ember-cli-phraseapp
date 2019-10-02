@@ -1,6 +1,6 @@
 # ember-cli-phraseapp
 
-This adapter lets you connect your EmberJS app to [Phrase](https://phrase.com) and integrate the powerful [In-Context-Editor](http://demo.phrase.com/) into your apps. To get started with Phrase you need to [sign up for a free account](https://phrase.com/signup).
+This adapter lets you connect your EmberJS app to [Phrase](https://phrase.com) and integrate the powerful In-Context-Editor into your apps. To get started with Phrase you need to [sign up for a free account](https://phrase.com/signup).
 
 ## Usage
 
