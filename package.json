@@ -25,7 +25,7 @@
   "devDependencies": {
     "broccoli-asset-rev": "^1.0.0",
     "ember-cli": "0.1.4",
-    "ember-cli-content-security-policy": "0.3.0",
+    "ember-cli-content-security-policy": "1.1.1",
     "ember-cli-dependency-checker": "0.0.6",
     "ember-cli-esnext": "0.1.1",
     "ember-cli-htmlbars": "^0.6.0",
